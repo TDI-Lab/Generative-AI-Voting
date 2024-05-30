@@ -7,7 +7,7 @@ A comprehensive framework to emulate the elections using AI for three datasets -
 # Datasets
 
 We  use the ANES data source (https://electionstudies.org/data-center/) for extracting a subset of the  votes for American Elections 2012, 2016 and 2020 along with the following self-reported traits - (i) racial/ethnic self-identification, (ii) gender, (iii) age, (iv) conservative-liberal
-ideological self-placement, (v) party identification (political belief), (vi) political interest, (vii) church attendance, (viii) discussion of politics with family/friends, (ix) feelings of patriotism
+ideological self-placement, (v) party identification (political belief / political orientation), (vi) political interest, (vii) church attendance, (viii) discussion of politics with family/friends, (ix) feelings of patriotism
 associated with the American flag, and (x) state of
 residence.
 
