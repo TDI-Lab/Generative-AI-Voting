@@ -41,14 +41,20 @@ Command: python jaccard_overall.py
 # D) ML
 All codes found in Common Codes
 Training code using recurrent neural network: ML_prediction_code_A21.py
-Input: Gen_AI_Outputs/A21_GPT_LLAMA_PREDICTION_2012.xlsx --- this sheet contains the independent  (10 personal traits) and dependent (i) predicted choices (Single_Choice ML Original (A21_original), Single_Choice GPT 3.5 (A21_GPT3.5), Single_Choice GPT llama (A21_llama2) and ii) the human and AI overlaps - llama-original, gpt3.5-original and ML-original.
+
+Input: Gen_AI_Outputs/A21_GPT_LLAMA_PREDICTION_2012.xlsx --- this sheet contains the
+independent  (10 personal traits) and 
+dependent (i) predicted choices (Single_Choice ML Original (A21_original), Single_Choice GPT 3.5 (A21_GPT3.5), Single_Choice GPT llama (A21_llama2) and 
+ii) the human and AI overlaps - llama-original, gpt3.5-original and ML-original.
+
 Command: running the .ipynb notebook
 Package dependencies: tensorflow=2.0.0, Scikit-learn = 0.21, numpy, pandas
 
 
 MODELWISE Folders: 2012, 2016, 2020
 Contains feature importance codes, generates feature importance scores and 
-Model: The trained model considers the human-AI overlaps as dependent variables for all three years for GPT 3.5, llama2, and original stores as rnn_model.keras. The value 1 signifies overlap and 2 signifies overlap.
+
+Models: The trained model considers the human-AI overlaps as dependent variables for all three years for GPT 3.5, llama2, and original stores as rnn_model.keras. The value 1 signifies overlap and 2 signifies overlap.
 
 --MODELWISE
 -----2012
