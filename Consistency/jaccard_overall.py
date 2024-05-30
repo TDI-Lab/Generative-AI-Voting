@@ -1,3 +1,6 @@
+
+
+#A21 stands for single_choice
 import pandas as pd
 
 df = pd.read_excel("c:/Users/Desktop/ANES/ANES/Gen_AI_Outputs/A21_GPT_LLAMA_PREDICTION_2012.xlsx")

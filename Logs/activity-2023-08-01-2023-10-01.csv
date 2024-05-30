@@ -1,0 +1,17 @@
+organization_id,operation,n_context_tokens_total,n_generated_tokens_total,usage_type,model,timestamp,user,num_requests
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,2029073,350282,text,gpt-3.5-turbo-0613,1691020800,majumdarsrijoni@gmail.com,1246
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,1198223,190881,text,gpt-3.5-turbo-0613,1691107200,majumdarsrijoni@gmail.com,607
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,2380007,482619,text,gpt-3.5-turbo-0613,1691193600,majumdarsrijoni@gmail.com,1359
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,732571,148861,text,gpt-3.5-turbo-0613,1691280000,majumdarsrijoni@gmail.com,542
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,344980,2590,text,gpt-3.5-turbo-0613,1691539200,majumdarsrijoni@gmail.com,1088
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,1917286,45756,text,gpt-3.5-turbo-0613,1692576000,majumdarsrijoni@gmail.com,1559
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,7106512,322432,text,gpt-3.5-turbo-0613,1692662400,majumdarsrijoni@gmail.com,5871
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,1757694,97390,text,gpt-3.5-turbo-0613,1692748800,majumdarsrijoni@gmail.com,1417
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,944377,124810,text,gpt-3.5-turbo-0613,1692835200,majumdarsrijoni@gmail.com,449
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,97063,537,text,gpt-3.5-turbo-0613,1693180800,majumdarsrijoni@gmail.com,304
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,132846,1032,text,gpt-3.5-turbo-0613,1693267200,majumdarsrijoni@gmail.com,398
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,588636,20961,text,gpt-3.5-turbo-0613,1693353600,majumdarsrijoni@gmail.com,945
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,430082,1265,text,gpt-3.5-turbo-0613,1693440000,majumdarsrijoni@gmail.com,513
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,2918,357,text,davinci,1693526400,majumdarsrijoni@gmail.com,9
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,99479,138538,text,text-davinci:003,1693526400,majumdarsrijoni@gmail.com,301
+org-j7XHDIZrY6S8teiqhkWIUdXt,completion,57917,18885,text,gpt-3.5-turbo-0613,1694044800,majumdarsrijoni@gmail.com,200
