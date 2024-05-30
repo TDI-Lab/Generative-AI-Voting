@@ -1,0 +1,47 @@
+2020
+
+ORIGINAL vs GPT: 
+Overlap Count:  3474.0
+Jaccard Index:  0.6384855725050542
+
+
+ORIGINAL vs LLAMA:
+Overlap Count:  2980.0
+Jaccard Index:  0.5476934387061202
+
+
+GPT vs LLAMA:
+Overlap Count:  4138.0
+Jaccard Index:  0.7605219628744716
+
+2016
+
+ORIGINAL vs GPT:
+Overlap Count:  2262.0
+Jaccard Index:  0.5297423887587822
+
+
+ORIGINAL vs LLAMA:
+Overlap Count:  1969.0
+Jaccard Index:  0.4611241217798595
+
+
+GPT vs LLAMA:
+Overlap Count:  3052.0
+Jaccard Index:  0.7147540983606557
+
+2012
+
+ORIGINAL vs GPT: 
+Overlap Count:  3578.0
+Jaccard Index:  0.6050050727088265
+
+
+ORIGINAL vs LLAMA: 
+Overlap Count:  3211.0
+Jaccard Index:  0.5429489347311465
+
+
+GPT vs LLAMA: 
+Overlap Count:  4474.0
+Jaccard Index:  0.7565099763273588
