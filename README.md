@@ -11,6 +11,8 @@ ideological self-placement, (v) party identification (political belief / politic
 associated with the American flag, and (x) state of
 residence.
 
+Figshare Link: https://figshare.com/collections/Generative_AI_Voting_-_ANES/7261288
+
 
 # How to navigate the repository?
 Required python version: Python3.11. Clone the repository and navigate the directory using the following pointers
